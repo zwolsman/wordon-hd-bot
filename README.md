@@ -2,4 +2,4 @@
 WordonHD bot made in javascript
 
 run with 
->node app.js -u "username" -p "<password>"
+>node app.js -u "username" -p "password"
