@@ -1,5 +1,4 @@
 var argv = require('optimist')
-    .usage('Count the lines in a file.\nUsage: $0')
     .demand('u')
     .demand('p')
     .alias('u', 'username')
